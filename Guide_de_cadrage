@@ -1,0 +1,197 @@
+GUIDE DE CADRAGE OPÉRATIONNEL  
+PHASE 0 – OZARU DIGITALS  
+Document normatif de pré-engagement
+
+⸻
+
+OBJET DU DOCUMENT
+
+Ce guide définit le cadre obligatoire de la phase 0 chez Ozaru Digitals.
+
+La phase 0 a pour unique objectif de :
+- déterminer si un système IA doit exister,
+- clarifier la décision cible,
+- cadrer la responsabilité,
+- établir les conditions de succès et d’échec.
+
+La phase 0 n’est pas une phase de production.
+La phase 0 n’est pas une phase d’exploration libre.
+La phase 0 est une phase de décision.
+
+Aucun projet ne peut entrer en delivery sans avoir validé l’intégralité de ce cadre.
+
+⸻
+
+RÈGLE FONDAMENTALE
+
+Si la phase 0 ne permet pas :
+- d’identifier une décision précise,
+- de définir des critères d’échec,
+- d’établir une mesure d’impact,
+
+alors le projet est arrêté.
+
+Ozaru Digitals préfère arrêter tôt plutôt que livrer flou.
+
+⸻
+
+1. CARTOGRAPHIE DÉCISIONNELLE
+
+Objectif :
+Identifier la ou les décisions que le système devra influencer, arbitrer ou produire.
+
+Questions obligatoires :
+
+- Quelle décision coûte le plus cher aujourd’hui ?
+- À quelle fréquence cette décision est-elle prise ?
+- Qui la prend réellement (pas sur l’organigramme) ?
+- Sur quelles données repose-t-elle aujourd’hui ?
+- Quels arbitrages sont implicites ou non documentés ?
+- Que se passe-t-il si cette décision est mauvaise ?
+
+Livrable attendu :
+- Une décision formulée sous la forme :
+  “Décider X, dans le contexte Y, avec les contraintes Z”.
+
+Si aucune décision claire ne peut être formulée :
+→ arrêt immédiat du cadrage.
+
+⸻
+
+2. IDENTIFICATION DES FRICTIONS RÉELLES
+
+Objectif :
+Distinguer le problème réel du symptôme technologique.
+
+Analyse obligatoire :
+
+- Temps humain consommé par la décision
+- Coûts directs liés à l’inaction ou au retard
+- Erreurs répétées ou incohérences observables
+- Charge cognitive inutile
+- Risques non couverts ou mal arbitrés
+
+Interdiction :
+- Aucun problème ne peut être formulé comme
+  “manque d’IA”, “manque d’automatisation” ou “manque de modernité”.
+
+Livrable attendu :
+- Une friction formulée en termes de coût, risque ou inefficacité mesurable.
+
+⸻
+
+3. DÉFINITION DU SYSTÈME CIBLE
+
+Objectif :
+Définir ce que le système fera, et surtout ce qu’il ne fera pas.
+
+Cadre obligatoire :
+
+- Fonction décisionnelle précise
+  (ex : prioriser, alerter, recommander, bloquer)
+- Inputs utilisés (données, signaux, règles)
+- Outputs produits (décision, score, alerte, justification)
+- Seuils d’intervention humaine explicites
+- Points de veto humains non contournables
+
+Interdictions :
+- Toute promesse d’autonomie totale
+- Tout système sans responsabilité humaine clairement assignée
+
+Livrable attendu :
+- Une description concise du système sous forme :
+  “Le système arbitre X selon Y, avec intervention humaine sur Z”.
+
+⸻
+
+4. CRITÈRES DE SUCCÈS ET D’ÉCHEC
+
+Objectif :
+Rendre le succès falsifiable.
+
+Définition obligatoire :
+
+Critères de succès :
+- métriques impactées,
+- seuils d’amélioration attendus,
+- horizon temporel.
+
+Critères d’échec :
+- absence d’adoption,
+- contournement du système,
+- impact nul ou négatif,
+- dégradation de la qualité décisionnelle.
+
+Règle stricte :
+- Si le client refuse de définir des critères d’échec,
+  le projet est refusé.
+
+Livrable attendu :
+- Une liste courte et mesurable de succès ET d’échecs possibles.
+
+⸻
+
+5. PROTOCOLE DE MESURE ET DE RESPONSABILITÉ
+
+Objectif :
+Assumer la responsabilité au-delà de la livraison.
+
+Définition obligatoire :
+
+- Métriques avant intervention (baseline)
+- Métriques après intervention
+- Responsable de la validation des résultats
+- Calendrier d’évaluation :
+  - 30 jours
+  - 90 jours
+  - 180 jours
+
+Interdiction :
+- Toute promesse de ROI sans baseline mesurée.
+
+Livrable attendu :
+- Un protocole de mesure simple, traçable et partagé.
+
+⸻
+
+6. DÉCISION DE PASSAGE EN DELIVERY
+
+Conditions cumulatives requises :
+
+□ Décision cible clairement formulée  
+□ Friction réelle et mesurable identifiée  
+□ Système cible défini et borné  
+□ Critères de succès et d’échec validés  
+□ Protocole de mesure accepté  
+□ Sponsor décisionnel engagé  
+
+Si une condition n’est pas remplie :
+→ le projet n’entre pas en delivery.
+
+⸻
+
+DÉCISION FORMELLE DE FIN DE PHASE 0
+
+Décision :
+□ ARRÊT DU PROJET  
+□ REPORT (cadrage incomplet)  
+□ PASSAGE EN DELIVERY
+
+Motif synthétique :
+............................................................
+
+Responsable Ozaru :
+Nom : ....................................................
+Date : ...................................................
+
+⸻
+
+CLAUSE DE COHÉRENCE
+
+La phase 0 n’a pas pour but de rassurer.
+Elle a pour but de clarifier.
+
+Un projet bien refusé est un succès Ozaru.
+Un projet flou accepté est un échec.
+
+La décision précède toujours le système.

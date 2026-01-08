@@ -1,56 +1,56 @@
-GUIDE DE CADRAGE OPÉRATIONNEL  
-PHASE 0 – OZARU DIGITALS  
+GUIDE DE CADRAGE OPÉRATIONNEL
+PHASE 0 – ARBITAS
 Document normatif de pré-engagement
 
 ⸻
 
 OBJET DU DOCUMENT
 
-Ce guide définit le cadre obligatoire de la phase 0 chez Ozaru Digitals.
+Ce guide définit le cadre obligatoire de la phase 0 chez Arbitas.
 
 La phase 0 a pour unique objectif de :
-- déterminer si un système IA doit exister,
+- déterminer si un système décisionnel doit exister,
 - clarifier la décision cible,
-- cadrer la responsabilité,
-- établir les conditions de succès et d’échec.
+- désigner la responsabilité humaine,
+- établir des critères explicites de succès et d’échec.
 
 La phase 0 n’est pas une phase de production.
 La phase 0 n’est pas une phase d’exploration libre.
-La phase 0 est une phase de décision.
+La phase 0 est une phase de décision engageante.
 
-Aucun projet ne peut entrer en delivery sans avoir validé l’intégralité de ce cadre.
+Aucune mission Arbitas ne peut entrer en delivery sans validation complète de ce cadre.
 
 ⸻
 
 RÈGLE FONDAMENTALE
 
 Si la phase 0 ne permet pas :
-- d’identifier une décision précise,
-- de définir des critères d’échec,
-- d’établir une mesure d’impact,
+- d’identifier une décision réelle et explicite,
+- de définir des critères d’échec acceptés,
+- d’établir une mesure d’impact traçable,
 
-alors le projet est arrêté.
+alors la mission est arrêtée.
 
-Ozaru Digitals préfère arrêter tôt plutôt que livrer flou.
+Arbitas préfère arrêter tôt plutôt que livrer un système flou ou irresponsable.
 
 ⸻
 
 1. CARTOGRAPHIE DÉCISIONNELLE
 
 Objectif :
-Identifier la ou les décisions que le système devra influencer, arbitrer ou produire.
+Identifier la ou les décisions que le système devra influencer, arbitrer ou contraindre.
 
 Questions obligatoires :
 
 - Quelle décision coûte le plus cher aujourd’hui ?
 - À quelle fréquence cette décision est-elle prise ?
-- Qui la prend réellement (pas sur l’organigramme) ?
-- Sur quelles données repose-t-elle aujourd’hui ?
-- Quels arbitrages sont implicites ou non documentés ?
-- Que se passe-t-il si cette décision est mauvaise ?
+- Qui la prend réellement (au-delà de l’organigramme) ?
+- Sur quelles données ou signaux repose-t-elle aujourd’hui ?
+- Quels arbitrages sont implicites, politiques ou non documentés ?
+- Que se passe-t-il concrètement si cette décision est mauvaise ?
 
 Livrable attendu :
-- Une décision formulée sous la forme :
+- Une décision formulée explicitement sous la forme :
   “Décider X, dans le contexte Y, avec les contraintes Z”.
 
 Si aucune décision claire ne peut être formulée :
@@ -61,14 +61,14 @@ Si aucune décision claire ne peut être formulée :
 2. IDENTIFICATION DES FRICTIONS RÉELLES
 
 Objectif :
-Distinguer le problème réel du symptôme technologique.
+Distinguer la friction décisionnelle réelle du symptôme technologique.
 
 Analyse obligatoire :
 
 - Temps humain consommé par la décision
 - Coûts directs liés à l’inaction ou au retard
 - Erreurs répétées ou incohérences observables
-- Charge cognitive inutile
+- Charge cognitive inutile imposée aux équipes
 - Risques non couverts ou mal arbitrés
 
 Interdiction :
@@ -76,78 +76,78 @@ Interdiction :
   “manque d’IA”, “manque d’automatisation” ou “manque de modernité”.
 
 Livrable attendu :
-- Une friction formulée en termes de coût, risque ou inefficacité mesurable.
+- Une friction exprimée en termes de coût, risque ou inefficacité mesurable.
 
 ⸻
 
 3. DÉFINITION DU SYSTÈME CIBLE
 
 Objectif :
-Définir ce que le système fera, et surtout ce qu’il ne fera pas.
+Définir précisément ce que le système fera, et surtout ce qu’il ne fera pas.
 
 Cadre obligatoire :
 
-- Fonction décisionnelle précise
-  (ex : prioriser, alerter, recommander, bloquer)
-- Inputs utilisés (données, signaux, règles)
-- Outputs produits (décision, score, alerte, justification)
-- Seuils d’intervention humaine explicites
+- Fonction décisionnelle explicite
+  (prioriser, accepter/refuser, alerter, bloquer, recommander sous contrainte)
+- Inputs utilisés (données, signaux, règles, hypothèses)
+- Outputs produits (décision, alerte, justification, renoncement)
+- Seuils d’intervention humaine explicitement définis
 - Points de veto humains non contournables
 
-Interdictions :
+Interdictions absolues :
 - Toute promesse d’autonomie totale
-- Tout système sans responsabilité humaine clairement assignée
+- Tout système sans responsabilité humaine clairement désignée
 
 Livrable attendu :
-- Une description concise du système sous forme :
-  “Le système arbitre X selon Y, avec intervention humaine sur Z”.
+- Une description concise du système sous la forme :
+  “Le système arbitre X selon Y, avec intervention humaine obligatoire sur Z”.
 
 ⸻
 
 4. CRITÈRES DE SUCCÈS ET D’ÉCHEC
 
 Objectif :
-Rendre le succès falsifiable.
+Rendre le succès falsifiable et l’échec acceptable.
 
 Définition obligatoire :
 
 Critères de succès :
-- métriques impactées,
+- métriques réellement impactées,
 - seuils d’amélioration attendus,
-- horizon temporel.
+- horizon temporel explicite.
 
 Critères d’échec :
 - absence d’adoption,
 - contournement du système,
 - impact nul ou négatif,
-- dégradation de la qualité décisionnelle.
+- dégradation mesurable de la qualité décisionnelle.
 
-Règle stricte :
+RÈGLE STRICTE :
 - Si le client refuse de définir des critères d’échec,
-  le projet est refusé.
+  la mission Arbitas est refusée.
 
 Livrable attendu :
-- Une liste courte et mesurable de succès ET d’échecs possibles.
+- Une liste courte, mesurable et partagée de succès ET d’échecs possibles.
 
 ⸻
 
 5. PROTOCOLE DE MESURE ET DE RESPONSABILITÉ
 
 Objectif :
-Assumer la responsabilité au-delà de la livraison.
+Assumer la responsabilité au-delà de la mise en œuvre.
 
 Définition obligatoire :
 
-- Métriques avant intervention (baseline)
+- Métriques avant intervention (baseline documentée)
 - Métriques après intervention
-- Responsable de la validation des résultats
+- Responsable humain de la validation des résultats
 - Calendrier d’évaluation :
   - 30 jours
   - 90 jours
   - 180 jours
 
 Interdiction :
-- Toute promesse de ROI sans baseline mesurée.
+- Toute promesse de ROI sans baseline mesurée et acceptée.
 
 Livrable attendu :
 - Un protocole de mesure simple, traçable et partagé.
@@ -163,24 +163,24 @@ Conditions cumulatives requises :
 □ Système cible défini et borné  
 □ Critères de succès et d’échec validés  
 □ Protocole de mesure accepté  
-□ Sponsor décisionnel engagé  
+□ Sponsor décisionnel explicitement engagé  
 
 Si une condition n’est pas remplie :
-→ le projet n’entre pas en delivery.
+→ la mission n’entre pas en delivery.
 
 ⸻
 
 DÉCISION FORMELLE DE FIN DE PHASE 0
 
 Décision :
-□ ARRÊT DU PROJET  
+□ ARRÊT DE LA MISSION  
 □ REPORT (cadrage incomplet)  
-□ PASSAGE EN DELIVERY
+□ PASSAGE EN DELIVERY  
 
 Motif synthétique :
 ............................................................
 
-Responsable Ozaru :
+Responsable Arbitas :
 Nom : ....................................................
 Date : ...................................................
 
@@ -189,9 +189,9 @@ Date : ...................................................
 CLAUSE DE COHÉRENCE
 
 La phase 0 n’a pas pour but de rassurer.
-Elle a pour but de clarifier.
+Elle a pour but de contraindre la clarté.
 
-Un projet bien refusé est un succès Ozaru.
-Un projet flou accepté est un échec.
+Une mission bien refusée est un succès Arbitas.
+Une mission floue acceptée est un échec.
 
 La décision précède toujours le système.

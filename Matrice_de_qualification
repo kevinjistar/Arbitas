@@ -1,20 +1,20 @@
-MATRICE DE QUALIFICATION DE PROJET  
-OZARU DIGITALS  
+MATRICE DE QUALIFICATION DE MISSION  
+ARBITAS  
 Document opératoire – Go / No-Go
 
 ⸻
 
 OBJET DU DOCUMENT
 
-Cette matrice définit les critères obligatoires permettant à Ozaru Digitals :
-- d’accepter un projet,
-- de le refuser sans ambiguïté,
+Cette matrice définit les critères obligatoires permettant à Arbitas :
+- d’accepter une mission,
+- de la refuser sans ambiguïté,
 - de documenter toute décision de go / no-go.
 
 Elle s’applique à :
 - tout prospect,
-- tout projet existant en extension,
-- toute demande interne de création de service ou d’agent.
+- toute extension de mission existante,
+- toute demande d’évolution du périmètre Arbitas.
 
 Aucune exception implicite n’est autorisée.
 
@@ -22,11 +22,11 @@ Aucune exception implicite n’est autorisée.
 
 RÈGLE FONDAMENTALE
 
-Un projet est accepté uniquement s’il :
-1. ne déclenche aucun critère éliminatoire,
-2. atteint le score minimum requis sur les critères de fit.
+Une mission est acceptée uniquement si :
+1. aucun critère éliminatoire n’est déclenché,
+2. le score minimum requis sur les critères de fit est atteint.
 
-À défaut, le projet est refusé, sans négociation sur le fond.
+À défaut, la mission est refusée, sans négociation sur le fond.
 
 ⸻
 
@@ -34,30 +34,30 @@ Un projet est accepté uniquement s’il :
 (UN SEUL CRITÈRE COCHÉ = REFUS IMMÉDIAT)
 
 □ Absence de sponsor décisionnel identifié  
-Le projet n’a pas de responsable capable d’arbitrer, d’assumer et d’arrêter le système.
+Aucune personne n’est explicitement responsable de l’arbitrage, de l’assomption et de l’arrêt du système.
 
-□ Budget IA alloué sans problème métier documenté  
-Le budget précède le problème ou repose sur une injonction vague (“faire de l’IA”).
+□ Budget alloué sans problème décisionnel documenté  
+Le budget précède le problème ou repose sur une injonction vague (“faire de l’IA”, “automatiser”).
 
 □ Refus ou incapacité à définir des critères d’échec  
-Le client refuse de formuler ce qui constituerait un échec du système.
+Le prospect refuse de formuler ce qui constituerait un échec mesurable de la mission.
 
 □ Demande d’automatisation totale sans contrôle humain  
-Le client recherche une suppression complète de la responsabilité humaine.
+La mission vise explicitement à supprimer toute responsabilité humaine.
 
-□ Attente d’un “POC pour voir” sans engagement aval  
-Le projet est présenté comme un test exploratoire sans intention de déploiement réel.
+□ Attente d’un “test pour voir” sans engagement aval  
+La demande est formulée comme exploratoire, sans intention claire de déploiement ou d’arbitrage réel.
 
 □ Absence de décision cible clairement formulée  
-Aucune décision précise n’est identifiée comme cœur du système.
+Aucune décision précise n’est identifiée comme cœur de la mission.
 
 □ Refus explicite de la contradiction  
-Le client attend une validation, pas un arbitrage ni un challenge.
+Le prospect attend une validation ou une exécution, pas un arbitrage ni un challenge argumenté.
 
 ⸻
 
 STATUT SI AU MOINS UN CRITÈRE EST COCHÉ :  
-→ PROJET REFUSÉ  
+→ MISSION REFUSÉE  
 Aucune phase de cadrage n’est engagée.
 
 ⸻
@@ -67,25 +67,25 @@ Aucune phase de cadrage n’est engagée.
 
 Chaque critère est noté de 1 (très faible) à 5 (excellent).
 
-1. Clarté du problème décisionnel  
+1. Clarté de la décision cible  
 □ 1 □ 2 □ 3 □ 4 □ 5  
-Le problème est formulé comme une décision coûteuse, répétée ou risquée.
+La problématique est formulée comme une décision coûteuse, répétée ou à risque élevé.
 
-2. Maturité du sponsor  
+2. Maturité du sponsor décisionnel  
 □ 1 □ 2 □ 3 □ 4 □ 5  
-Le sponsor comprend les limites de l’IA, accepte l’incertitude et la responsabilité.
+Le sponsor comprend les limites du système, accepte l’incertitude et assume la responsabilité finale.
 
-3. Capacité de mesure  
+3. Capacité de mesure réelle  
 □ 1 □ 2 □ 3 □ 4 □ 5  
-Des données existent ou peuvent être produites pour mesurer l’impact réel.
+Des données existent ou peuvent être produites pour mesurer l’impact décisionnel.
 
-4. Acceptation du cadre Ozaru  
+4. Acceptation du cadre Arbitas  
 □ 1 □ 2 □ 3 □ 4 □ 5  
-Le client accepte explicabilité, traçabilité, interruption et audits.
+Le prospect accepte explicitabilité, traçabilité, interruption, audit et critères d’échec.
 
 5. Potentiel de valeur mesurable  
 □ 1 □ 2 □ 3 □ 4 □ 5  
-Le système peut raisonnablement produire un impact observable à 90 jours.
+La mission peut produire un impact observable et documentable à 90 jours.
 
 ⸻
 
@@ -97,17 +97,17 @@ SCORE MINIMUM REQUIS : 18
 3. INTERPRÉTATION DES SCORES
 
 Score < 18  
-→ PROJET REFUSÉ  
-Raison : risque de dilution, faible impact, ou responsabilité insuffisante.
+→ MISSION REFUSÉE  
+Raison : risque élevé de dilution, d’impact faible ou de responsabilité insuffisante.
 
 Score entre 18 et 21  
-→ PROJET ACCEPTABLE SOUS CONDITIONS  
-Un cadrage renforcé est obligatoire.  
+→ MISSION ACCEPTABLE SOUS CONDITIONS  
+Un cadrage renforcé est requis.  
 Les critères faibles doivent être explicitement traités en phase 0.
 
 Score ≥ 22  
-→ PROJET PRIORITAIRE  
-Alignement fort avec l’ADN Ozaru.  
+→ MISSION PRIORITAIRE  
+Alignement fort avec l’ADN Arbitas.  
 Engagement recommandé.
 
 ⸻
@@ -122,7 +122,7 @@ Décision finale :
 Motif synthétique (obligatoire, une phrase maximum) :  
 .....................................................................
 
-Décideur Ozaru :  
+Décideur Arbitas :  
 Nom : ................................................  
 Date : ................................................
 
@@ -132,15 +132,15 @@ Date : ................................................
 
 - Toute matrice complétée doit être conservée.
 - Tout refus doit pouvoir être justifié par cette matrice.
-- Aucun projet accepté ne peut contourner un critère éliminatoire.
-- Toute dérogation explicite constitue une violation du manifeste.
+- Aucune mission acceptée ne peut contourner un critère éliminatoire.
+- Toute dérogation explicite constitue une violation des documents normatifs Arbitas.
 
 ⸻
 
 CLAUSE DE PROTECTION DE LA MARQUE
 
-Ozaru Digitals préfère refuser un projet rentable
-plutôt qu’accepter un projet incohérent.
+Arbitas préfère refuser une mission rentable
+plutôt qu’accepter une mission incohérente.
 
-La cohérence du système prévaut sur la croissance.
+La cohérence décisionnelle prévaut sur la croissance.
 La responsabilité prévaut sur l’opportunité.
